@@ -76,21 +76,6 @@ email: kristokallfa@yahoo.com
 
 <div align="center">
 
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kristok21&theme=react&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=a78bfa&point=ffffff&area_color=6366f1" alt="Contribution graph" width="100%"/>
-
-<br/><br/>
-
-<!-- Snake animation is generated daily by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/kristok21/kristok21/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristo-kallfa-53456423b)
